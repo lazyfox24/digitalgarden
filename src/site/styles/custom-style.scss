@@ -10,4 +10,29 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    
+/* Icons */ 
+.cm-iconize-icon {
+  color: var(--interactive-accent);
+}
+.tree-item .iconize-icon {
+  color: var(--interactive-accent);
+}
+.tree-item-self.fn-is-active .iconize-icon,
+.tree-item-self.is-active .iconize-icon {
+  color: white;
+}
+.tree-item-self:hover svg {
+  color: unset !important;
+}
+.goldcoin svg {
+	color: #efe03a !important;
+}
+.silvercoin  svg {
+	color: #dbdbdb !important;
+}
+.coppercoin svg {
+	color: #bb9300 !important;
+}
+    
 }
