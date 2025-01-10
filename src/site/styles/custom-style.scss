@@ -12,3 +12,15 @@ body {
     //  }
     
 }
+
+.coin
+  position: absolute
+  height: 150px
+  width: 150px
+  background: #ffbd0b
+  border-radius: 50%
+  border-top: 7px solid #ffd84c
+  border-left: 7px solid #ffd84c
+  border-right: 7px solid #d57e08
+  border-bottom: 7px solid #d57e08
+  transform: rotate(44deg)
