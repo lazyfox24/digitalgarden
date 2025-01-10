@@ -13,14 +13,15 @@ body {
     
 }
 
-.coin
-  position: absolute
-  height: 150px
-  width: 150px
-  background: #ffbd0b
-  border-radius: 50%
-  border-top: 7px solid #ffd84c
-  border-left: 7px solid #ffd84c
-  border-right: 7px solid #d57e08
-  border-bottom: 7px solid #d57e08
-  transform: rotate(44deg)
+.coin{
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  background: #ffbd0b;
+  border-radius: 50%;
+  border-top: 2px solid #ffd84c;
+  border-left: 2px solid #ffd84c;
+  border-right: 2px solid #d57e08;
+  border-bottom: 2px solid #d57e08;
+  transform: rotate(44deg);
+}
