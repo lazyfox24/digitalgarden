@@ -81,6 +81,7 @@
 }
 
 .testimg {
+  height: 25vh;
   object-fit: contain;
 }
 
