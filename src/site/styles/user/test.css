@@ -20,6 +20,7 @@
   cursor: pointer;
   height: 200px;
   position: relative;
+  display: flex;
 }
 
 .card:hover:before {
