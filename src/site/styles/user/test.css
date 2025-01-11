@@ -20,7 +20,6 @@
   cursor: pointer;
   height: 200px;
   position: relative;
-  display: flex;
 }
 
 .card:hover:before {
@@ -82,7 +81,6 @@
 }
 
 .testimg {
-  height: 25vh;
   object-fit: contain;
 }
 
