@@ -18,7 +18,7 @@
   background-color: var(--card-color);
   border-radius: 0.75em;
   cursor: pointer;
-  height: 240px;
+  height: 200px;
   position: relative;
 }
 
