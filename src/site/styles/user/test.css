@@ -80,9 +80,10 @@
   }
 }
 
-.testimg {
-  width: 25vh;
-  height: 25vh;
-  object-fit: fill;
+.card > .testimg {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  object-fit: cover;
 }
 
