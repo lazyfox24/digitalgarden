@@ -68,6 +68,14 @@
   transition: transform 250ms, opacity 250ms;
 }
 
+.card > .testimg {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+
 @media(max-width: 1100px) {
   #cards {
     grid-template-columns: repeat(2, 1fr);
@@ -78,12 +86,5 @@
   #cards {
     grid-template-columns: 1fr;
   }
-}
-
-.card > .testimg {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  object-fit: cover;
 }
 
