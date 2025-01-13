@@ -83,6 +83,6 @@
 .testimg {
   width: 25vh;
   height: 25vh;
-  object-fit: cover;
+  object-fit: contain;
 }
 
